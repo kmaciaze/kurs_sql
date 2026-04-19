@@ -1,3 +1,5 @@
+SET SQL_SAFE_UPDATES = 0;
+
 -- tworzenie bazy
 CREATE DATABASE IF NOT EXISTS Baza_Pracownicy;
 USE Baza_Pracownicy;
